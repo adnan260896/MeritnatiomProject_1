@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="0">
+<testcase classname="Meritnation Website" name="Title of your scenario outline" time="0">
+<skipped><![CDATA[Given Login to the application..............................................undefined
+And I click the login button................................................skipped
+When I enter the valid "adnanmohd11@gmail.com" and "Adnan260896"............skipped
+Then I click login button...................................................skipped
+]]></skipped>
+</testcase>
+</testsuite>
